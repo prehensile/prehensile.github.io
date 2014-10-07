@@ -1,7 +1,7 @@
 ---
 title: Playful 2014
 layout: page
-permalink: /talks/playful2014
+permalink: /talks/playful2014/
 ---
 
 &#3232;_&#3232; denotes a link of dubious authenticity.
