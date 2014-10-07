@@ -8,7 +8,7 @@ permalink: /talks/playful2014/
 
 #Researchers & enthusiasts
 
-- The [Conet Project][1], and on the [Internet Archive][2].
+- The [Conet Project][1], and on the [Internet Archive][2]
 - Simon Mason's [Shortwave Espionage][3]
 - [ENIGMA 2000][7]
 - [Priyom.org Number Station Research][10]
@@ -41,7 +41,7 @@ permalink: /talks/playful2014/
 - [YouTube: "Swan Lake" on 4625 kHz (02.09.2010)][30] &#3232;_&#3232;
 - [English Russia: Inside the Mysterious UVB-76 Station][20] &#3232;_&#3232;
 - [archive.org: Kwasd's Blog][22] &#3232;_&#3232;
-- [reddit.com: UVB-76, a Russian shortwave numbers station known as "The Buzzer" for it's daily buzzing noise has had a huge spike in activity in the past few days, with more voice transmissions in the past 2 days than there has been from it in 20 years!][31]
+- [reddit.com: UVB-76, a Russian shortwave numbers station known as "The Buzzer" for it's daily buzzing noise has had a huge spike in activity in the past few days, with more voice transmissions in the past 2 days than there has been from it in 20 years!][31] &#3232;_&#3232;
 
 
 #The Next Generation
@@ -53,8 +53,8 @@ permalink: /talks/playful2014/
 #Miscellany / Cutting-room floor
 
 - [priyom.org: G03 / 'The Gong'][32]
-- [Popsci: Mysterious Phony Cell Towers Could Be Intercepting Your Calls][14] &#3232;_&#3232;
 - [The Radio Spectrum - UK Allocations][19]
+- [Popsci: Mysterious Phony Cell Towers Could Be Intercepting Your Calls][14] &#3232;_&#3232;
 - [YouTube: UVB-76 "A WOMANS SCREAM"][27] &#3232;_&#3232;
 - [YouTube: UVB-76 (the buzzer), Strange behavior 6th and 7th October2012][28] &#3232;_&#3232;
 
