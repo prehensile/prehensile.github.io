@@ -58,7 +58,6 @@ permalink: /talks/playful2014/
 - [YouTube: UVB-76 "A WOMANS SCREAM"][27] &#3232;_&#3232;
 - [YouTube: UVB-76 (the buzzer), Strange behavior 6th and 7th October2012][28] &#3232;_&#3232;
 
-
 [1]: http://www.irdial.com/conet.htm
 [2]: https://archive.org/details/ird059
 [3]: http://www.simonmason.karoo.net/page30.html
