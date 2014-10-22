@@ -1,8 +1,7 @@
 # Site settings
 title: prehensile.github.io
 email: me@prehensile.co.uk
-description: > # this means to ignore newlines until "baseurl:"
-  @prehensile's home on github
+description: @prehensile's home on github
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://prehensile.github.io" # the base hostname & protocol for your site
 twitter_username: prehensile
