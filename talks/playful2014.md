@@ -42,6 +42,8 @@ permalink: /talks/playful2014/
 - [English Russia: Inside the Mysterious UVB-76 Station][20] &#3232;_&#3232;
 - [archive.org: Kwasd's Blog][22] &#3232;_&#3232;
 - [reddit.com: UVB-76, a Russian shortwave numbers station known as "The Buzzer" for it's daily buzzing noise has had a huge spike in activity in the past few days, with more voice transmissions in the past 2 days than there has been from it in 20 years!][31] &#3232;_&#3232;
+- [YouTube: UVB-76 "A WOMANS SCREAM"][27] &#3232;_&#3232;
+- [YouTube: UVB-76 (the buzzer), Strange behavior 6th and 7th October2012][28] &#3232;_&#3232;
 
 
 #The Next Generation
@@ -55,8 +57,6 @@ permalink: /talks/playful2014/
 - [priyom.org: G03 / 'The Gong'][32]
 - [The Radio Spectrum - UK Allocations][19]
 - [Popsci: Mysterious Phony Cell Towers Could Be Intercepting Your Calls][14] &#3232;_&#3232;
-- [YouTube: UVB-76 "A WOMANS SCREAM"][27] &#3232;_&#3232;
-- [YouTube: UVB-76 (the buzzer), Strange behavior 6th and 7th October2012][28] &#3232;_&#3232;
 
 [1]: http://www.irdial.com/conet.htm
 [2]: https://archive.org/details/ird059
