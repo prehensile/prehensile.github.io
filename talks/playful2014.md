@@ -1,8 +1,10 @@
 ---
-title: Playful 2014
+title: Numbers Stations
 layout: page
 permalink: /talks/playful2014/
 ---
+
+Presented at [Playful 2014][33].
 
 &#3232;_&#3232; denotes a link of dubious authenticity.
 
@@ -90,3 +92,4 @@ permalink: /talks/playful2014/
 [30]: http://www.youtube.com/watch?v=uYElXTS61es
 [31]: http://www.reddit.com/comments/d59dg/uvb76_a_russian_shortwave_numbers_station_known/
 [32]: http://www.priyom.org/number-stations/german/g03.aspx
+[33]: http://thisisplayful.com/
