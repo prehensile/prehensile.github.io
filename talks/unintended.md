@@ -3,10 +3,7 @@ title: Unintended Consequences
 layout: page
 permalink: /talks/unintended/
 ---
-
-# Unintended consequences
-
-## Unintended consequences
+## Introduction
 * [Quora: What are the best examples of the law of unintended consequences in action?][1]
 * [Wikipedia: Unintended consequences][4]
 * [Unintended Consequences, Rob Norton][2]
