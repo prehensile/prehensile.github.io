@@ -1,7 +1,7 @@
 ---
-title: Numbers Stations
+title: Unintended Consequences
 layout: page
-permalink: /talks/playful2014/
+permalink: /talks/unintended/
 ---
 
 # Unintended consequences
