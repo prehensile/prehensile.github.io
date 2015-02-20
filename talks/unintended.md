@@ -1,3 +1,9 @@
+---
+title: Numbers Stations
+layout: page
+permalink: /talks/playful2014/
+---
+
 # Unintended consequences
 
 ## Unintended consequences
