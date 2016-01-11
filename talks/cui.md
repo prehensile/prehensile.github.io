@@ -7,6 +7,7 @@ permalink: /talks/cui/
 A linkdump to accompany a short talk on Conversational UI. Originally collected on [Pinboard][11].
 
 #General background & starting points
+
 * [The Future of UI Design? Old-School Text Messages | WIRED][3]
 * [Design is a conversation - Inside Intercom ][7]
 * [Conversational UI: a short reading list – Blog – BERG][8]
@@ -15,13 +16,16 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 * [Wit — Natural language for Developers ][12]
 
 #Facebook M
+
 * [David Marcus - Today we're beginning to test a new service called... ][6]
 * [Facebook's Human-Powered Assistant May Just Supercharge AI | WIRED][1]
 
 #Messaging & text
+
 * [Benedict Evans: Messaging and mobile platforms][2]
 * [Jonathan Libov: Futures of text][4]
 * [always bet on text][5]
+
 > Text is the most socially useful communication technology. It works well in 1:1, 1:N, and M:N modes. It can be indexed and searched efficiently, even by hand. It can be translated. It can be produced and consumed at variable speeds. It is asynchronous.
 
 [1]: http://www.wired.com/2015/08/how-facebook-m-works/
