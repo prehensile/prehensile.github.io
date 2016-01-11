@@ -13,12 +13,6 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 * [Conversational UI: a short reading list – Blog – BERG][8]
 * [On conversational UIs (16 Jun., 2015, at Interconnected)][9]
 * [More on conversational UIs (28 Jun., 2015, at Interconnected)][10]
-* [Wit — Natural language for Developers ][12]
-
-#Facebook M
-
-* [David Marcus - Today we're beginning to test a new service called... ][6]
-* [WIRED: Facebook's Human-Powered Assistant May Just Supercharge AI][1]
 
 #Messaging & text
 
@@ -27,6 +21,20 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 * [always bet on text][5]
 
 > Text is the most socially useful communication technology. It works well in 1:1, 1:N, and M:N modes. It can be indexed and searched efficiently, even by hand. It can be translated. It can be produced and consumed at variable speeds. It is asynchronous.
+
+
+#Facebook (M)
+
+* [Mark Zuckerberg - Every year, I take on a personal challenge...][13]
+* [David Marcus - Today we're beginning to test a new service called...][6]
+* [WIRED: Facebook's Human-Powered Assistant May Just Supercharge AI][1]
+
+#Software agents
+* [Amazon Echo][14]
+* [Here's everything Siri can do on Apple TV][15]
+
+#Services
+* [Wit — Natural language for Developers ][12]
 
 [1]: http://www.wired.com/2015/08/how-facebook-m-works/
 [2]: http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging
@@ -40,3 +48,6 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 [10]: http://interconnected.org/home/2015/06/28/more_on_conversational_uis
 [11]: https://pinboard.in/u:prehensile/t:conversational-ui/
 [12]: https://wit.ai/
+[13]: https://www.facebook.com/zuck/posts/10102577175875681
+[14]: https://www.youtube.com/watch?v=KkOCeAtKHIc
+[15]: http://www.macworld.com/article/3002099/home-players/heres-everything-siri-can-do-on-apple-tv.html
