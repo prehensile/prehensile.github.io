@@ -8,7 +8,7 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 
 #General background & starting points
 
-* [The Future of UI Design? Old-School Text Messages | WIRED][3]
+* [WIRED: The Future of UI Design? Old-School Text Messages][3]
 * [Design is a conversation - Inside Intercom ][7]
 * [Conversational UI: a short reading list – Blog – BERG][8]
 * [On conversational UIs (16 Jun., 2015, at Interconnected)][9]
@@ -18,7 +18,7 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 #Facebook M
 
 * [David Marcus - Today we're beginning to test a new service called... ][6]
-* [Facebook's Human-Powered Assistant May Just Supercharge AI | WIRED][1]
+* [WIRED: Facebook's Human-Powered Assistant May Just Supercharge AI][1]
 
 #Messaging & text
 
