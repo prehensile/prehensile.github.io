@@ -22,7 +22,6 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 
 > Text is the most socially useful communication technology. It works well in 1:1, 1:N, and M:N modes. It can be indexed and searched efficiently, even by hand. It can be translated. It can be produced and consumed at variable speeds. It is asynchronous.
 
-
 #Facebook (M)
 
 * [Mark Zuckerberg - Every year, I take on a personal challenge...][13]
@@ -32,6 +31,9 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 #Software agents
 * [Amazon Echo][14]
 * [Here's everything Siri can do on Apple TV][15]
+
+#Peach
+* [How Peach’s Most Interesting Feature, the Hybrid Command Line, Is Becoming Mainstream Again][16]
 
 #Services
 * [Wit — Natural language for Developers ][12]
@@ -51,3 +53,4 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 [13]: https://www.facebook.com/zuck/posts/10102577175875681
 [14]: https://www.youtube.com/watch?v=KkOCeAtKHIc
 [15]: http://www.macworld.com/article/3002099/home-players/heres-everything-siri-can-do-on-apple-tv.html
+[16]: http://nymag.com/following/2016/01/how-the-command-line-became-mainstream-again.html#
