@@ -32,7 +32,7 @@ A linkdump to accompany a short talk on Conversational UI. Originally collected 
 * [Amazon Echo][14]
 * [Here's everything Siri can do on Apple TV][15]
 
-#Peach
+#Peach 🍑
 * [How Peach’s Most Interesting Feature, the Hybrid Command Line, Is Becoming Mainstream Again][16]
 
 #Services
