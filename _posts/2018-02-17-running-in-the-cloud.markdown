@@ -35,7 +35,7 @@ At this point, we had a loop of two devices talking to one another and some nice
 
 As I started to do this, though, I ran into a wall. I couldn't decide whether to write this from my point of view ('I am writing code') or the point of view of Alexa-trapped-in-Echo ('I am running in the cloud'). Lucier hadn't had this problem! Since he was speaking his own words, he was simultaneously the writer, performer and subject of the text. For me, these three had become separated by the technology.
 
-The answer popped into my head while I was having a swim. Since we were using two devices in conversation, I could write both points of view, one for each device! This made the piece more interesting anyway, since I could explore the disjoints between the two constructed personalities by putting them into dialogue and have them both dissolve each other into meaninglessness through repetition and iteration. Lovely. [Both texts]((https://raw.githubusercontent.com/prehensile/alexa-sittingroom/master/texts.txt)) are available [in the project's github repository](https://github.com/prehensile/alexa-sittingroom).
+The answer popped into my head while I was having a swim. Since we were using two devices in conversation, I could write both points of view, one for each device! This made the piece more interesting anyway, since I could explore the disjoints between the two constructed personalities by putting them into dialogue and have them both dissolve each other into meaninglessness through repetition and iteration. Lovely. [Both texts](https://raw.githubusercontent.com/prehensile/alexa-sittingroom/master/texts.txt) are available [in the project's github repository](https://github.com/prehensile/alexa-sittingroom).
 
 Here's a video of it iterating away:
 
