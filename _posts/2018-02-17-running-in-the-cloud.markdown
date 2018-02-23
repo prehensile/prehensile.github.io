@@ -11,7 +11,7 @@ categories: blog
 
 At the end of 2017, [Tim Cowlishaw](http://www.timcowlishaw.co.uk/) and I had a few conversations with folk that started us off thinking about Amazon Echo (and things like it — voice devices / 'smart speakers' in general) as experimental sound objects. Not necessarily thinking about the voice-controlled aspects of them as the potential they offer as a decent speaker, backed by some computing power and connected to a network.
 
-The first experiment we made was a reworking of [inbflat.net](http://inbflat.net), using a room full of Echoes to play parts of the piece. There's a reference to Janet Cardiff's [Forty Part Motet](http://www.cardiffmiller.com/artworks/inst/motet.html) there too, one of the most affecting and beautiful sound art pieces I've seen in recent years.
+[The first experiment we made](https://www.youtube.com/watch?v=zymfLZzLPXc&t=124s) was a reworking of [inbflat.net](http://inbflat.net), using a room full of Echoes to play parts of the piece. There's a reference to Janet Cardiff's [Forty Part Motet](http://www.cardiffmiller.com/artworks/inst/motet.html) there too, one of the most affecting and beautiful sound art pieces I've seen in recent years.
 
 Meanwhile, Tim was riffing on Alvin Lucier's _I am sitting in a room_. Lucier made the piece in 1969 by recording himself reciting a text, and then playing back the tape into a room and recording the room sound on another tape deck. He repeated this process over and over again, until the generation loss and cumulative room sound completely destroyed the sound of his voice.
 
