@@ -4,7 +4,6 @@ layout: page
 permalink: /talks/bump
 ---
 
-# Things That Go Bump On The Net
 ## Folklore and the stories we tell about technology
 Presented at EMF 2018.
 
@@ -53,11 +52,9 @@ Tales: Human Communication and Memetics](http://assets.press.princeton.edu/chapt
 
 ### Slide images
 - typesetting by Jenni Konrad, Flickr
-
--The Ghost of Oiwa (Oiwa-san) by Katsushika Hokusai, Museum of Fine Arts, Boston
-
--[SlenderMan by TheTuneOfTurbo on DeviantArt](https://www.deviantart.com/-thetuneofturbo/art/SlenderMan-177739732)
--[Friar Bacon's Brazen Head](https://commons.wikimedia.org/wiki/-File:Friar_Bacon%27s_Brazen_Head.png)
+- The Ghost of Oiwa (Oiwa-san) by Katsushika Hokusai, Museum of Fine Arts, Boston
+- [SlenderMan by TheTuneOfTurbo on DeviantArt](https://www.deviantart.com/-thetuneofturbo/art/SlenderMan-177739732)
+- [Friar Bacon's Brazen Head](https://commons.wikimedia.org/wiki/-File:Friar_Bacon%27s_Brazen_Head.png)
 
 
 ### Thanks
