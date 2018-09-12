@@ -24,7 +24,7 @@ First up, some housekeeping: thanks to EMF for having me again, and youse all fo
 
 I’ll start with a disclaimer: this talk is at something like version 0.8. There are probably bugs. By continuing to sit here you agree to be bound by the terms of my beta test agreement. If you think I’ve missed a trick, or a particularly good story, please come and find me later. 
 
-Also, it turns out that this is an ambitious topic to fit into half an hour. I’ll be glossing over a few things, passing by others at speed. I’ll assume that everyone’s clever people and has google to follow up things up later. I’ve published a lot of notes and references for this talk [online](/talks/bump).
+Also, it turns out that this is an ambitious topic to fit into half an hour. I’ll be glossing over a few things, passing by others at speed. I’ll assume that everyone’s clever people and has google to follow up things up later. I’ve published a lot of notes and references for this talk <a href="/talks/bump" target="_blank">online</a>.
 
 With that said, let’s get started... _174 years ago_.
 
