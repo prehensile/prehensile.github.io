@@ -77,12 +77,12 @@ Tales: Human Communication and Memetics by Jack Zipes](http://assets.press.princ
 - [Cover art for The Original Folk and Fairy Tales of the Brothers Grimm: The Complete First Edition by Andrea Dezsö](http://www.andreadezso.com/book-illustration)
 
 
-### Thanks
+### Acknowledgments
 
 Thanks to the following friends, comrades and fellow-travellers who helped shape this talk in one way or another. All mistakes, however, are most certainly my own.
 
-- [Bill Thompson](https://twitter.com/billt), whose fault it mostly is that I finished this talk
-- [Garrett D. Tiedemann](https://twitter.com/whitewhalepod), who also shares a lot of the blame
+- [Bill Thompson](https://twitter.com/billt), whose fault it mostly is that I finished this talk.
+- [Garrett D. Tiedemann](https://twitter.com/whitewhalepod), who also shares a lot of the blame.
 - [Tom Armitage](https://twitter.com/tom_armitage)
 - [Natalie Kane](https://twitter.com/nd_kane)
 - [Honor Harger](https://twitter.com/honorharger)

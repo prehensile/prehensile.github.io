@@ -6,6 +6,9 @@ categories: blog
 ---
 
 A talk about how our folklore makes its way into how we think about technology, and how our technology itself spawns its own folklore. Written for and [debuted at Electromagnetic Field 2018](https://www.emfcamp.org/line-up/2018/425-things-that-go-bump-on-the-net).
+
+Cross-posted to [Medium](https://medium.com/@prehensile/things-that-go-bump-on-the-net-16b4e7555e03).
+
 <p>
 <iframe width="740" height="416" onload="this.width='100%';this.height=this.offsetWidth*(315/560);" src="https://www.youtube.com/embed/NWjAuHEz5q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
@@ -78,7 +81,7 @@ The story of Gef adds another layer, though: if we accept that it was indeed a h
 
 The story itself spread on the same networks that fed it. The tabloid press, knowing a good story when they saw one, gave extensive coverage to Gef, and by 1935 he’d made it as far as the Hong Kong Telegraph. The story’s so potent that it’s continued to propagate down through time to the present day, jumping from newspapers to books to magazines and the internet - even a field in Gloucestershire in 2018.
 
-At the last EMF Camp, [I talked about numbers stations](https://www.youtube.com/watch?v=Qrt1pN4CFCA)  - mysterious, shortwave radio stations that operated across Europe during the Cold War, mostly broadcasting strings of numbers. Most people think these were coded communication channels, broadcast by state intelligence agencies - although none have ever ‘fessed up to running them, officially. During that talk, I said that the thing I found interesting about the numbers stations was the way that they acted as a kind of generator of folk tales, and that I reckoned you could draw a line back from the stories the numbers stations spawned to campfire ghost stories.
+At the last EMF Camp, [I talked about numbers stations](https://www.youtube.com/watch?v=Qrt1pN4CFCA)  - mysterious, shortwave radio stations that operated across Europe during the Cold War, mostly broadcasting strings of numbers. Most people think these were coded communication channels, broadcast by state intelligence agencies - although none have ever ’fessed up to running them, officially. During that talk, I said that the thing I found interesting about the numbers stations was the way that they acted as a kind of generator of folk tales, and that I reckoned you could draw a line back from the stories the numbers stations spawned to campfire ghost stories.
 
 Today, I’m talking about my attempts to trace that line: how existing folklore makes its way into how we think about new technology how our technologies themselves generate their own folklore.
 
@@ -88,7 +91,7 @@ One of the earliest examples I could find of a technology spawning its own disti
 
 ![a drawing of a lantern sprit]({{ site.url }}/assets/blog/bump/EMF2018.017.jpeg)
 
-There’s also an idea in Japanese folklore of Tsukumogami [t-scoo-mo-ga-mi] - spirits which tools acquire when they get old enough. These spirits are harmless enough - mostly playing whimsical pranks on their owners - unless you annoy them by throwing them away too soon, or being wasteful.
+There’s also an idea in Japanese folklore of Tsukumogami - spirits which tools acquire when they get old enough. These spirits are harmless enough - mostly playing whimsical pranks on their owners - unless you annoy them by throwing them away too soon, or being wasteful.
 
 ![a diagram of twitching frog's legs]({{ site.url }}/assets/blog/bump/EMF2018.016.jpeg)
 
@@ -114,7 +117,7 @@ Today, we’re interested in what could cause the myth of the gremlins to come a
 
 The most widely held theory is that oxygen can be in short supply in a high-altitude aeroplane, and lack of it could easily cause hallucinations. Other writers suggest that the gremlins served a morale-preserving function, allowing air crew to blame faults on something other than the maintenance crews, their comrades.
 
-I think there might be something else going on here, too. A military plane is a fiendishly complex piece of engineering, with an awful lot of things that can fail in a lot of unpredictably interdependent ways. In other words: hard to understand. So once you hit a certain level of complexity, of unknowability - why not gremlins? Seems as plausible as anything else. It’s like the dark side of that Arthur C Clarke quote that I won’t waste anyone’s time by repeating here.
+I think there might be something else going on here, too. A military plane is a fiendishly complex piece of engineering, with an awful lot of things that can fail in a lot of unpredictably interdependent ways. In other words: hard to understand. So once you hit a certain level of complexity, of unknowability - why not gremlins? Seems as plausible as anything else. It’s like the dark side of that ubiquitous Arthur C. Clarke quote that I won’t waste anyone’s time by repeating here.
 
 ![Something something technology blah blah magic]({{ site.url }}/assets/blog/bump/EMF2018.021.jpeg)
 
@@ -136,7 +139,7 @@ It’s these social aspects of storytelling that I think gives us modern meme cu
 
 ![a photoshopped image of Slender Man]({{ site.url }}/assets/blog/bump/EMF2018.026.jpeg)
 
-A story like Slender Man, for example, who first pops up on the Something Awful forums in a [Photoshop competition to make super creepy images](https://forums.somethingawful.com/showthread.php?threadid=3150591). His images show a faceless, gangly creature lurking in the woods behind some oblivious kids. However, the story swiftly takes on its own momentum as it comes into contact with many more creative minds, all adding their part to the legend, playing with fragments of folklore to create an ongoing, shared, viral narrative, popping up all over the internet in more creepy images and stories, implicating the Slender Man in atrocities large and small..
+A story like Slender Man, for example, who first pops up on the Something Awful forums in a [Photoshop competition to make super-creepy images](https://forums.somethingawful.com/showthread.php?threadid=3150591). His images show a faceless, gangly creature lurking in the woods behind some oblivious kids. However, the story swiftly takes on its own momentum as it comes into contact with many more creative minds, all adding their part to the legend, playing with fragments of folklore to create an ongoing, shared, viral narrative, popping up all over the internet in more creepy images and stories, implicating the Slender Man in atrocities large and small.
 
 And at the same time as being a thoroughly networked fable, Slender Man simultaneously has its roots in our deep folklore. Shira Chess [notes that](https://books.google.co.uk/books?id=xuGvBQAAQBAJ&lpg=PT58&pg=PT58#v=onepage&q&f=false):
 
@@ -208,12 +211,12 @@ So, I’m not going to end this neatly. But, if I am going to leave you with one
 
 Thank you.
 
-### Thanks
+### Acknowledgments
 
 Thanks to the following friends, comrades and fellow-travellers who helped shape this talk in one way or another. All mistakes, however, are most certainly my own.
 
-- [Bill Thompson](https://twitter.com/billt), whose fault it mostly is that I finished this talk
-- [Garrett D. Tiedemann](https://twitter.com/whitewhalepod), who also shares a lot of the blame
+- [Bill Thompson](https://twitter.com/billt), whose fault it mostly is that I finished this talk.
+- [Garrett D. Tiedemann](https://twitter.com/whitewhalepod), who also shares a lot of the blame.
 - [Tom Armitage](https://twitter.com/tom_armitage)
 - [Natalie Kane](https://twitter.com/nd_kane)
 - [Honor Harger](https://twitter.com/honorharger)
