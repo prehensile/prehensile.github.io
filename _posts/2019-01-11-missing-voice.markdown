@@ -4,7 +4,6 @@ title:  "Audio AR & The Missing Voice"
 date:   2019-01-11 15:56:00
 categories: blog
 ---
-
 For [work-work](https://www.bbc.co.uk/rd) at the moment, we're starting to think about audio-only AR as _A Thing_. 
 
 I've had a long-standing bugbear with visual AR so far (as delivered by phones and tablets, in the main): I feel like it _imposes_ itself on the world, getting in the way of your view by forcing a screen between you and what you can see. This screen is usually a lot smaller than your field of view, so you end up viewing the augmentations through a fairly small window. Not particularly immersive, and diverts your attention to the screen rather than your surroundings - it's supposed to augment, but ends up becoming the focus.
