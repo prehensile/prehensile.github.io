@@ -15,7 +15,11 @@ In some ways, audio is a much better medium for this. Ambience delivered through
 
 From the point of view of doing this inside the BBC, it's interesting in that we can view it as creatively inherting from radio - and thus tap into all the production skill and experience available in the organisation.
 
-One of the strands of this research is to have a look at [sound walks][1] - quite a few of these exist in London (and seemed to have something of a renaissance with the rise of the iPhone, a couple of favourites are [Hackney Hear][2] and [A Hollow Body][3]) but one that comes up most often in recent conversations is Janet Cardiff's [The Missing Voice (Case Study B)][4], commissioned by Artangel in 1999.
+Some very early prototyping - and past experience - point to [sound walks][1] as something which could work very well on an audio AR device like Bose's new [Frames][5], mixing ambient, spatial and geolocated audio elements with a participant's aural perception of the world. Sound walks aren't a particularly new idea - people have made loads in London already and they seemed to have something of a renaissance with the rise of the iPhone. A couple of my favourites are [Hackney Hear][2] and [A Hollow Body][3]. One that has come up most often in recent conversations, however, is Janet Cardiff's [The Missing Voice (Case Study B)][4], commissioned by Artangel in 1999. 
+
+Artangel describe the walk like so: 
+
+>Part urban guide, part detective story, part film noir, this audio walk transports individual listeners on foot through the streets and alley ways of Spitalfields, a historic part of London next to the City. Intimate, even conspiratorial in tone, it entwines the listener in an elusive narrative that shifts through space and time, confession, conjecture and dream.
 
 This morning, [Jakub](https://fiala.uk/) and I met at the [Whitechapel Gallery](https://en.wikipedia.org/wiki/Whitechapel_Gallery) (formerly the library), pressed play on our phones, and set off.
 
@@ -47,3 +51,4 @@ Maybe we'll even make some stuff, who knows? Stranger things have happened.
 [2]: http://www.hackneyhear.com/
 [3]: http://www.ahollowbody.com/ 
 [4]: https://www.artangel.org.uk/project/the-missing-voice-case-study-b/
+[5]: https://www.bose.com/en_us/products/wearables/frames.html
