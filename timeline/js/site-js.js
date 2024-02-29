@@ -98,7 +98,6 @@ function reflowEntries() {
   }
 }
 
-
 function onCategorySelectorChange(){
   
   const selectedValues = Array.from(
@@ -107,6 +106,8 @@ function onCategorySelectorChange(){
 
   if( selectedValues.includes("_all") ){
     showAllEntries();
+  } else if( selectedValues.includes("_random") ){
+    selectRandomCategory();
   } else {
     updatePageForFilters( selectedValues );
   }
@@ -138,6 +139,17 @@ function onHeaderClick(){
   scrollToTop();
 }
 
+function onHomeClick(){
+  selectCategory( "_all" );
+  showAllEntries();
+}
+
+function selectRandomCategory(){
+  const categories = getCategories();
+  const category = categories[Math.floor(Math.random()*categories.length)];
+  selectCategory( category );
+}
+
 function onload() {
   /* We have JS! */
   var root = document.documentElement;
@@ -153,6 +165,8 @@ function onload() {
   document.querySelectorAll('.timeline-description a').forEach((a)=>{
     a.addEventListener('click', onDescriptionLinkClick);
   });
+
+  document.querySelector('#header-home').addEventListener('click', onHomeClick);
 
   /* Flow entries */
   reflowEntries();
