@@ -149,7 +149,7 @@
           </div>
           <div class="timeline-description">
             <span class="timestamp"
-              ><time datetime="2024-01-01"
+              ><time id="intro-time" datetime="2024-01-01"
                 >January 1, 2024</time
               ></span
             >
@@ -2621,5 +2621,15 @@
 
     <script src="js/classlist-polyfill.js"></script>
     <script src="js/site-js.js"></script>
+    <script>
+      const now = new Date();
+      const te = document.getElementById("intro-time");
+      te.setAttribute( "datetime", now.toISOString() );
+      te.innerHTML = now.toLocaleDateString(
+        'en-US',
+        { month: 'long', day: 'numeric', year: 'numeric' }
+      );
+      // January 1, 2024
+    </script>
   </body>
 </html>
