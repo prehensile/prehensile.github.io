@@ -132,35 +132,5 @@ function setupSVGUpdateListeners() {
     });
 }
 
-// Export SVG to PDF
-async function exportToPDF() {
-    try {
-        const svgContainer = document.getElementById('svg-container');
-        const svgElement = svgContainer.querySelector('svg');
-        
-        // Create jsPDF instance with A4 dimensions
-        const { jsPDF } = window.jspdf;
-        const pdf = new jsPDF({
-            orientation: 'portrait',
-            unit: 'mm',
-            format: 'a4'
-        });
-
-        // Convert SVG to PDF
-        await pdf.svg(svgElement, {
-            x: 0,
-            y: 0,
-            width: 210, // A4 width in mm
-            height: 297 // A4 height in mm
-        }); 
-        
-        pdf.save('repair-cafe-poster.pdf');
-
-    } catch (error) {
-        console.error('Error exporting PDF:', error);
-        alert('Error exporting PDF. Please try again.');
-    }
-}
-
 // Load SVG when page loads
 document.addEventListener('DOMContentLoaded', loadSVGAndPopulateFields);
