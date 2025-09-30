@@ -14,7 +14,7 @@ I have led successful teams both technical and cross-disciplinary — the latter
 
 I've created websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. In one memorable case, I built a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision.
 
-I put these skills to use as an R&D consultant, working across levels in the innovation stack from research and strategy to hands-on prototyping. 
+I put these skills to use as an independent creative R&D consultant, helping clients understand emerging technology through research, strategy and hands-on prototyping.
 
 ## Professional skills
 
