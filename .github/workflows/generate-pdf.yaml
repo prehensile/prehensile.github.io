@@ -1,0 +1,15 @@
+name: generate-pdf
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: browser-actions/setup-chrome@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      - run: |
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
+      - run: |
+          cd cv
+          sh build.sh

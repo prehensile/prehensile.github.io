@@ -1,0 +1,25 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "PUPPETEER_EXECUTABLE_PATH=`which chromium` mdpdf cv.md --style=style.css --gh-style",
+    "serve": "npm run build -- --debug && http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prehensile/cv.git"
+  },
+  "author": "Henry Cooke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prehensile/cv/issues"
+  },
+  "homepage": "https://github.com/prehensile/cv",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "mdpdf": "^3.0.2"
+  }
+}
