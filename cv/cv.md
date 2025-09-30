@@ -67,6 +67,6 @@ Highlights include [Launchball](https://preloaded.com/work/launchball/), which r
 ### BA (Hons) Media Production, University of Lincoln
 #### 2001 — 2004
 
-I was already a pretty good coder by the time I left school, and wasn't sure how much I'd get out of a Computer Science degree. I was enjoying making short films and videos, and had an inkling that understanding how traditional media worked would be a useful skill to go alongside the programming I already knew.
+I was already a good coder by the time I left school, and didn't think I'd get much out of a Computer Science degree. I was enjoying making short films and videos, and had an inkling that understanding how traditional media worked would be a useful skill to go alongside the programming I already knew.
 
 The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
