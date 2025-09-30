@@ -6,6 +6,8 @@ jobs:
     steps:
       - uses: browser-actions/setup-chrome@v1
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
       - run: |
           git config --local user.name actions-user
