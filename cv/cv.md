@@ -54,14 +54,12 @@ In 2008, my instincts were leading me to the iPhone as the next platform where i
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
-Sometimes these threads come together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace. In 2019, I [worked with](https://motherultimate.com/projects/theatre) legendary immersive theatre company Punchdrunk to investigate technologies for tracking audiences and creating personalised moments during a show.
+Sometimes these threads came together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace, and in 2019 I [investigated audience-tracking technologies](https://motherultimate.com/projects/theatre) for legendary immersive theatre company [Punchdrunk](https://www.punchdrunk.com).
 
 ### The Design Agency Years
 #### 2004 — 2008
 
-I started my London agency career at Tonic (now defunct) in 2004, where I made Flash microsites. I moved on to [Preloaded](https://www.preloaded.com) in 2006, where I continued to build Flash experiences and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design.
-
-Highlights include [Launchball](https://preloaded.com/work/launchball/), which racked up over 10 million plays and won a slew of awards — including, in 2008, Best in Show and Best Game at SXSWi and Technical Excellence at Flash in the Can.   
+I started my London agency career in 2004, making Flash microsites and games. I learned the craft of creative software development during these years, and gained an education in agency-standard visual design. I joined [Preloaded](https://www.preloaded.com) in 2006, where I made [Launchball](https://preloaded.com/work/launchball/) — which racked up over 10 million plays and won a slew of awards, including Best in Show and Best Game at SXSWi 2008.
 
 ## Education
 ### BA (Hons) Media Production, University of Lincoln
