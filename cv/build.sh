@@ -5,9 +5,6 @@ set -e
 pdf_timestamp=$(git log -1 --format=%ct cv.pdf)
 md_timestamp=$(git log -1 --format=%ct cv.md)
 
-echo $pdf_timestamp
-echo $md_timestamp
-
 if [ $md_timestamp -gt $pdf_timestamp ]; then
     echo "Generating new PDF..."
     npm ci
