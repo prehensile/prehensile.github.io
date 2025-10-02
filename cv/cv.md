@@ -41,16 +41,16 @@ I left the BBC at the end of 2024, and I've been working as an independent creat
 ### The BBC Research & Development Years
 #### 2016 — 2024
 
-I first worked at BBC R&D in 2014 as a freelance creative technologist, working on UX prototypes for a content analysis, discovery, and recommendation system. I liked it so much that I stuck around, and joined full-time in 2016.
+I joined BBC R&D in 2016 as a Creative Technologist & Producer.
 
-As a producer, I designed and led prototyping projects to explore emerging interactive media technologies, most notably around [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
+As a producer, I designed and led exploratory projects around emerging media technologies, most notably [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
 As a researcher, I [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects. I spent my last few years as Lead Foresight Researcher, [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) futures and foresight practices around the organisation and publishing very well-received [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
 
 ### The Freelance Years
 #### 2008 — 2016 (or so)
 
-In 2008, my instincts were leading me to the iPhone as the next platform where interesting creative work was happening. Over the next few years I worked on freelance projects as a creative technologist in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
+In 2008, my instincts were leading me to the creative possibilities opening up on the iPhone. I went freelance as a creative technologist working on projects in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
@@ -65,6 +65,6 @@ I started my London agency career in 2004, making Flash microsites and games. I 
 ### BA (Hons) Media Production, University of Lincoln
 #### 2001 — 2004
 
-I was already a good coder by the time I left school, and didn't think I'd get much out of a Computer Science degree. I was enjoying making short films and videos, and had an inkling that understanding how traditional media worked would be a useful skill to go alongside the programming I already knew.
+I was already a good coder by the time I left school, and didn't think I'd get much out of a Computer Science degree. I was enjoying making short films and videos, and made a bet that media production would be a useful skillset to go along with the programming I already knew.
 
 The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
