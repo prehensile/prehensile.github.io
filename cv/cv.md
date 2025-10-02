@@ -34,30 +34,30 @@ A timeline of my career and selected projects is available at
 [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
 
 ### The Freelance Years, Round Two
-#### 2025 — present
+#### 2025 — present, Creative Technology R&D Consultant
 
-I left the BBC at the end of 2024, and I've been working as an independent creative technology research & development consultant since. I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping projects.
+I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping projects.
 
 ### The BBC Research & Development Years
-#### 2016 — 2024, Senior Producer & Creative Technologist
+#### 2016 — 2024, Senior Producer & Creative Technologist, Lead Foresight Researcher
 
-As a producer, I designed and led exploratory projects around emerging media technologies, most notably [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
+As a producer at BBC R&D, I designed and led exploratory projects around emerging media technologies, most notably [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
-As a researcher, I [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects. I spent my last few years as Lead Foresight Researcher, [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) futures and foresight practices around the organisation and publishing very well-received [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
+As a researcher, I [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects. I spent my last few years there [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) futures and foresight practices around the organisation and publishing very well-received [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
 
 ### The Freelance Years
-#### 2008 — 2016
+#### 2008 — 2016, Creative Technologist
 
-In 2008, my instincts were leading me to the creative possibilities opening up on the iPhone. I went freelance as a creative technologist working on projects in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
+In 2008, my instincts were leading me to the creative possibilities opening up on the iPhone. During this time, I worked on projects in Flash and iOS, including the [first app to be nominated for a TV BAFTA](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html) and Björk's _Biophilia_ '[app album](https://en.wikipedia.org/wiki/Biophilia_(album)#App)'.
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
 Sometimes these threads came together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace, and in 2019 I [investigated audience-tracking technologies](https://motherultimate.com/projects/theatre) for legendary immersive theatre company [Punchdrunk](https://www.punchdrunk.com).
 
 ### The Design Agency Years
-#### 2004 — 2008
+#### 2004 — 2008, Flash Developer
 
-I started my London agency career in 2004, making Flash microsites and games. This is where I learned both the craft of creative software development, and agency-standard visual design. I joined [Preloaded](https://www.preloaded.com) in 2006, where I made [Launchball](https://preloaded.com/work/launchball/) — which racked up over 10 million plays and won a slew of awards, including Best in Show at SXSWi 2008.
+I started my London agency career in 2004, making Flash microsites and games. This is where I learned both the craft of creative software development, and agency-standard visual design. I joined [Preloaded](https://www.preloaded.com) in 2006, where I made [Launchball](https://preloaded.com/work/launchball/) which racked up over 10 million plays and won a slew of awards, including Best in Show at SXSWi 2008.
 
 ## Education
 ### BA (Hons) Media Production, University of Lincoln
