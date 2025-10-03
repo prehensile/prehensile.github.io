@@ -35,6 +35,7 @@
             width: 100%;
             border: none;
             display: block;
+            min-height: 100vh;
         }
 
         /* Tablet and smaller desktop */
@@ -66,7 +67,7 @@
             }
         }
     </style>
-    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
 </head>
 <body>
     <div class="container">
@@ -76,49 +77,5 @@
         </div>
         <div class="side-column"></div>
     </div>
-
-    <script>
-        const iframe = document.getElementById('cv-content');
-        iframe.onload = function() {
-            try {
-                const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
-
-                // Inject CSS to increase font size
-                const style = iframeDoc.createElement('style');
-                style.textContent = `
-                    .markdown-body {
-                        font-size: 12pt !important;
-                    }
-                `;
-                iframeDoc.head.appendChild(style);
-
-                // Make all links target _top
-                const linkTarget = "_top";
-                const links = iframeDoc.querySelectorAll('a');
-                links.forEach(link => {
-                    link.setAttribute('target', linkTarget);
-                });
-
-                // Add PDF link to first bullet list
-                const firstList = iframeDoc.querySelector('ul');
-                if (firstList) {
-                    const li = iframeDoc.createElement('li');
-                    li.textContent = "Download this CV as a "
-                    const a = iframeDoc.createElement('a');
-                    a.href = 'cv.pdf';
-                    a.target = linkTarget;
-                    a.textContent = 'PDF document';
-                    li.appendChild(a);
-                    firstList.appendChild(li);
-                }
-
-                // Set iframe height to match content
-                const height = iframeDoc.documentElement.scrollHeight;
-                iframe.style.height = height + 'px';
-            } catch (e) {
-                console.error('Could not access iframe content:', e);
-            }
-        };
-    </script>
 </body>
 </html>
