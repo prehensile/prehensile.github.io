@@ -9,3 +9,5 @@ github_username: prehnsile
 
 # Build settings
 markdown: kramdown
+
+exclude: ["*.sh", "package.json", "package-lock.json"]

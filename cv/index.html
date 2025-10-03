@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Henry Cooke - CV</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            overflow-x: hidden;
+            font-size: 16px;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 65vw 1fr;
+            min-height: 100vh;
+        }
+
+        .side-column {
+            background-color: #f5f5f5;
+        }
+
+        .middle-column {
+            background-color: white;
+            padding: 2rem;
+        }
+
+        #cv-content {
+            width: 100%;
+            border: none;
+            display: block;
+        }
+
+        /* Tablet and smaller desktop */
+        @media (max-width: 1200px) {
+            .container {
+                grid-template-columns: 100px 1fr 100px;
+            }
+        }
+
+        /* Tablet portrait and smaller */
+        @media (max-width: 900px) {
+            .container {
+                grid-template-columns: 50px 1fr 50px;
+            }
+        }
+
+        /* Mobile landscape and portrait detection */
+        @media (max-width: 768px), (orientation: portrait) and (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .side-column {
+                display: none;
+            }
+
+            .middle-column {
+                padding: 1rem;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="side-column"></div>
+        <div class="middle-column">
+            <iframe id="cv-content" src="cv.html"></iframe>
+        </div>
+        <div class="side-column"></div>
+    </div>
+
+    <script>
+        const iframe = document.getElementById('cv-content');
+        iframe.onload = function() {
+            try {
+                const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+                // Inject CSS to increase font size
+                const style = iframeDoc.createElement('style');
+                style.textContent = `
+                    .markdown-body {
+                        font-size: 12pt !important;
+                    }
+                `;
+                iframeDoc.head.appendChild(style);
+
+                // Make all links target _top
+                const linkTarget = "_top";
+                const links = iframeDoc.querySelectorAll('a');
+                links.forEach(link => {
+                    link.setAttribute('target', linkTarget);
+                });
+
+                // Add PDF link to first bullet list
+                const firstList = iframeDoc.querySelector('ul');
+                if (firstList) {
+                    const li = iframeDoc.createElement('li');
+                    li.textContent = "Download this CV as a "
+                    const a = iframeDoc.createElement('a');
+                    a.href = 'cv.pdf';
+                    a.target = linkTarget;
+                    a.textContent = 'PDF document';
+                    li.appendChild(a);
+                    firstList.appendChild(li);
+                }
+
+                // Set iframe height to match content
+                const height = iframeDoc.documentElement.scrollHeight;
+                iframe.style.height = height + 'px';
+            } catch (e) {
+                console.error('Could not access iframe content:', e);
+            }
+        };
+    </script>
+</body>
+</html>
