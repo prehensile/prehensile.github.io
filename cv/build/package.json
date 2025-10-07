@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "PUPPETEER_EXECUTABLE_PATH=`which chromium` mdpdf $SOURCE_DIR/cv.md $DESTINATION_DIR/cv.pdf --style=./src/style.css --gh-style",
+    "build": "PUPPETEER_EXECUTABLE_PATH=`which chromium` mdpdf $SOURCE_DIR/cv.md $DESTINATION_DIR/cv.pdf --debug --style=./src/style.css --gh-style",
     "serve": "npm run build -- --debug && http-server",
     "watch": "watch 'npm run build' $SOURCE_DIR"
   },
