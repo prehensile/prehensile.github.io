@@ -36,14 +36,14 @@ A timeline of my career and selected projects is available at
 ### The Freelance Years, Round Two
 #### 2025 — present, Creative Technology R&D Consultant
 
-I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping projects.
+I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping. Projects have included: acting as a Head of Innovation, building a bullet-time camera rig, consulting on strategic foresight workshops, and evaluating immersive audience technologies.
 
 ### The BBC Research & Development Years
 #### 2016 — 2024, Senior Producer & Creative Technologist, Lead Foresight Researcher
 
 As a producer at BBC R&D, I designed and led exploratory projects around emerging media technologies, most notably [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
-As a researcher, I [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating the findings of our projects. I spent my last few years there [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) futures and foresight practices around the organisation and publishing very well-received [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
+As a researcher, I frequently [published](https://www.semanticscholar.org/author/Henry-Cooke/46422799) guidelines and papers communicating our findings. I spent my last few years [building](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) futures and foresight practices around the organisation and publishing very well-received [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
 
 ### The Freelance Years
 #### 2008 — 2016, Creative Technologist
@@ -52,7 +52,7 @@ In 2008, my instincts were leading me to the creative possibilities opening up o
 
 This time was also marked by artistic collaborations. Highlights include work with [Dora Garcia](https://twentythreemillionstories.org/) and [Crystal Bennes](https://www.crystalbennes.com/portfolio/when-computers-were-women/), and experimental theatre projects leading to [The Body](https://nigelandlouise.com/The-Body) at the Barbican in 2015 — "[a seat-shaking, soul-searching techno-futurist experience](https://www.theguardian.com/stage/2015/nov/22/the-body-review-barbican)" which won that year's Oxford Samuel Beckett Theatre Trust Award.
 
-Sometimes these threads came together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace, and in 2019 I [investigated audience-tracking technologies](https://motherultimate.com/projects/theatre) for legendary immersive theatre company [Punchdrunk](https://www.punchdrunk.com).
+Sometimes these threads came together. In 2013, I collaborated on [a magical talking throne](http://elkworks.co.uk/throne) for a Christmas event at Kensington Palace, and in 2019 I [explored audience-tracking](https://motherultimate.com/projects/theatre) with legendary immersive company [Punchdrunk](https://www.punchdrunk.com).
 
 ### The Design Agency Years
 #### 2004 — 2008, Flash Developer
@@ -63,6 +63,6 @@ I started my London agency career in 2004, making Flash microsites and games. Th
 ### BA (Hons) Media Production, University of Lincoln
 #### 2001 — 2004
 
-I was already a good coder by the time I left school, and didn't think I'd get much out of a Computer Science degree. I was enjoying making short films and videos, and made a bet that media production would make a useful combination with the programming I already knew.
+I was already a good coder when I left school, and doubted I'd gain much by studying Computer Science. I was enjoying making short films, and had a hunch that Media Production would pair well with my affinity for digital technologies.
 
-The critical theory and production skills I learned at Lincoln have been consistently useful and evolving bits of my toolkit ever since.
+The critical theory and production skills I learned at Lincoln have been useful and evolving parts of my toolkit ever since.

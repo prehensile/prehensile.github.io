@@ -10,4 +10,4 @@ github_username: prehnsile
 # Build settings
 markdown: kramdown
 
-exclude: ["*.sh", "package.json", "package-lock.json"]
+exclude: ["*.sh", "package.json", "package-lock.json","Dockerfile","cv/src","cv/build"]

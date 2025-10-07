@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "PUPPETEER_EXECUTABLE_PATH=`which chromium` mdpdf cv.md --style=style.css --gh-style",
-    "serve": "npm run build -- --debug && http-server"
+    "build": "PUPPETEER_EXECUTABLE_PATH=`which chromium` mdpdf $SOURCE_DIR/cv.md $DESTINATION_DIR/cv.pdf --style=./src/style.css --gh-style",
+    "serve": "npm run build -- --debug && http-server",
+    "watch": "watch 'npm run build' $SOURCE_DIR"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/prehensile/cv",
   "dependencies": {
     "http-server": "^14.1.1",
-    "mdpdf": "^3.0.2"
+    "mdpdf": "^3.0.2",
+    "watch": "^1.0.2"
   }
 }
