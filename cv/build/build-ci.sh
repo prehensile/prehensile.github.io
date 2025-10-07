@@ -5,8 +5,9 @@ set -e
 export SOURCE_DIR="../src"
 export DESTINATION_DIR=".."
 
-pdf_timestamp=$(git log -1 --format=%ct $SOURCE_DIR/cv.pdf)
 md_timestamp=$(git log -1 --format=%ct $SOURCE_DIR/cv.md)
+pdf_timestamp=$(git log -1 --format=%ct $DESTINATION_DIR/cv.pdf)
+
 
 if [ $md_timestamp -gt $pdf_timestamp ]; then
     echo "Generating new PDF..."
