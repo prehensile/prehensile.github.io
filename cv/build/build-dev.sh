@@ -2,8 +2,8 @@
 
 set -e
 
-export SOURCE_DIR="./src"
-export DESTINATION_DIR="./destination"
+export SOURCE_DIR="../src"
+export DESTINATION_DIR=".."
 
 if [ "$1" = "-w" ]; then
   npm run watch

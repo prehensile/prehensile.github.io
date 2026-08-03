@@ -8,13 +8,13 @@
 
 #### Tinkerer, prototyper, committed generalist, Glue person, consensus-builder, facilitator. Occasional futurist. Data science lab assistant. AI whisperer.
 
-In over two decades working in creative technology, I've developed a good nose for emerging technologies and their potential for professionals and the public. 
+In over two decades working in creative technology, I've developed a good nose for emerging technologies and their potential for professionals and the public.
 
 I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
-I've created websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. In one memorable case, I built a giant talking throne for a Christmas event in a Royal Palace. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision.
+As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision.
 
-I put these skills to use as an independent creative R&D consultant, helping clients understand emerging technology through research, strategy and hands-on prototyping.
+These days I'm an independent creative R&D consultant, helping clients understand emerging technology through research, strategy and hands-on prototyping.
 
 ## Professional skills
 
@@ -22,9 +22,9 @@ Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Ski
 
 ## Technical skills
 
-Expert in Python and skilled in JavaScript, both client and server-side. Proficient in HTML & CSS, with some C++, Java, Processing, and C#. I can usually pick up whatever stack is most useful for the job at hand, and I have extensive experience in the use and development of LLM-based tools to extend my skills.
+Expert in Python and skilled in JavaScript, both client and server-side. Proficient in HTML & CSS, and capable in C/C++, Java, Processing, Arduino, and C#. I can usually pick up whatever stack is most useful for the job at hand, and I have extensive experience in the use and development of AI/LLM tools to extend my skills.
 
-Former iOS and Flash developer. Comfortable using and developing APIs and fluent in JSON, REST, OAuth, XML, etc. I know my way around a command line, and frequently tinker with virtual machines in various parts of The Cloud. Familiar with AWS, Azure, Heroku, etc. Regularly work with Raspberry Pi, comfortable with Arduino and intermediate electronics. I'm competent with a soldering iron.
+Former iOS and Flash developer. Comfortable using and developing APIs and fluent in JSON, REST, OAuth, XML, etc. I know my way around a command line, and frequently tinker with virtual machines in various parts of The Cloud. Familiar with AWS, Azure, Heroku, etc. Regularly work with Raspberry Pi, comfortable with Arduino, ESP32, and intermediate electronics. I'm competent with a soldering iron.
 
 ---
 
@@ -36,10 +36,10 @@ A timeline of my career and selected projects is available at
 ### The Freelance Years, Round Two
 #### 2025 — present, Creative Technology R&D Consultant
 
-I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping. Projects have included: acting as a Head of Innovation, building a bullet-time camera rig, consulting on strategic foresight workshops, and evaluating immersive audience technologies.
+I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping. Projects have included: acting as a Head of Innovation for the [MediaCity Immersive Technologies Innovation Hub](https://www.mediacityuk.co.uk/immersive-technologies-innovation-hub/), building a bullet-time camera rig, consulting on strategic foresight workshops for the [British Heart Foundation](https://www.bhf.org.uk/), and delivering an R&D project on audience tracking technologies for [Clockwork Dog](https://www.clockwork.dog/).
 
 ### The BBC Research & Development Years
-#### 2016 — 2024, Senior Producer & Creative Technologist, Lead Foresight Researcher
+#### 2016 — 2024, Senior Producer & Creative Technologist → Lead Foresight Researcher
 
 As a producer at BBC R&D, I designed and led exploratory projects around emerging media technologies, most notably [voice assistants](https://www.bbc.co.uk/rd/projects/talking-with-machines) and [spatial audio](https://www.bbc.co.uk/rd/blog/2021-01-audio-augmented-reality-spatial-voice). As a technologist, I built prototypes on [my own and other projects](https://www.bbc.co.uk/rd/people/henry-cooke?Type=Projects&Decade=All) to get a practitioner's feel for technologies and their possibilities.
 
