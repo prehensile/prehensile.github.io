@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node patch-mdpdf.mjs",
     "build": "mdpdf $SOURCE_DIR/cv.md $DESTINATION_DIR/cv.pdf --style=$SOURCE_DIR/style.css --gh-style --debug && mv $SOURCE_DIR/cv.html $DESTINATION_DIR/cv.html",
     "serve": "npm run build && http-server",
     "watch": "watch 'npm run build' $SOURCE_DIR"
