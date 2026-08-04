@@ -8,5 +8,5 @@ export DESTINATION_DIR=".."
 if [ "$1" = "-w" ]; then
   npm run watch
 else
-npm run build -- --debug
+npm run build
 fi
