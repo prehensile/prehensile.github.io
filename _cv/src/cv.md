@@ -1,8 +1,8 @@
 # Henry Cooke   
 
-- me@prehensile.co.uk
-- [prehensile.co.uk](https://prehensile.co.uk/) and [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
-- [linkedin.com/in/henrycooke](https://www.linkedin.com/in/henrycooke/)
+- 📧 me@prehensile.co.uk
+- 🌐 [prehensile.co.uk](https://prehensile.co.uk/) and [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
+- 👔 [linkedin.com/in/henrycooke](https://www.linkedin.com/in/henrycooke/)
 
 ## Creative Technology, Research & Development
 
@@ -22,7 +22,7 @@ Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Ski
 
 ## Technical skills
 
-Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including C/C++, Lua, C#, Swift, Java, TouchDesigner, etc. I have valuable experience with AI/LLM tools — not just as coding agents, but also building infrastructure and tooling around them, including local inference.
+Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including C/C++, Lua, C#, Swift, Java, TouchDesigner, etc. My experience with AI and LLMs goes beyond coding agents to building software infrastructure and tooling around them, and experimentation with low-end inference hardware in the lab.
 
 Former iOS and Flash developer. Extensive experience with Docker and building infrastructure on most common cloud providers and locally. Regularly work with Raspberry Pi, comfortable with Arduino, ESP32, and intermediate electronics. I'm competent with a soldering iron.
 
@@ -40,7 +40,7 @@ A timeline of my career and selected projects is available at
 ### The Freelance Years, Round Two
 #### 2025 — present, Creative Technology R&D Consultant
 
-I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping. Projects have included: acting as a Head of Innovation for the [MediaCity Immersive Technologies Innovation Hub](https://www.mediacityuk.co.uk/immersive-technologies-innovation-hub/), building a bullet-time camera rig, consulting on strategic foresight workshops for the [British Heart Foundation](https://www.bhf.org.uk/), and delivering an R&D project on audience tracking technologies for [Clockwork Dog](https://www.clockwork.dog/).
+I help my clients to understand emerging creative technologies through a mix of strategy, facilitation, and hands-on prototyping. Projects have included: acting as a Head of Innovation for the [MediaCity Immersive Technologies Innovation Hub](https://www.mediacityuk.co.uk/immersive-technologies-innovation-hub/), building a bullet-time camera rig, consulting on strategic foresight workshops for the [British Heart Foundation](https://www.bhf.org.uk/), and delivering an R&D project on audience tracking technologies for [Clockwork Dog](https://www.clockwork.dog/). I've spent most of 2026 doing fundamental UX and platform design for a connected play startup, along with content strategy and some early experience prototyping.
 
 ### The BBC Research & Development Years
 #### 2016 — 2024, Senior Producer & Creative Technologist → Lead Foresight Researcher
