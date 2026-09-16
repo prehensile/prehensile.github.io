@@ -24,7 +24,7 @@ function initFrame(){
         const firstList = iframeDoc.querySelector('ul');
         if (firstList) {
             const li = iframeDoc.createElement('li');
-            li.textContent = "Download this CV as a "
+            li.textContent = "📄 Download this CV as a "
             const a = iframeDoc.createElement('a');
             a.href = 'cv.pdf';
             a.target = linkTarget;
