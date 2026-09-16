@@ -10,11 +10,11 @@
 
 In over two decades working in creative technology, I've developed a good nose for emerging technologies and their potential for professionals and the public.
 
-I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. 
+As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision. 
 
-As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
+I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
-Since 2024 I'm an independent creative R&D consultant, helping clients understand emerging technology through research, strategy, and hands-on prototyping.
+I've been an independent creative R&D consultant since 2024, helping clients understand novel and emerging technologies through research, strategy, and hands-on prototyping.
 
 ## Professional skills
 
@@ -22,7 +22,7 @@ Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Ski
 
 ## Technical skills
 
-Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including C/C++, Lua, C#, Swift, Java, etc. I have valuable experience with AI/LLM tools — not just as coding agents, but also building infrastructure and tooling around them, including local inference.
+Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including C/C++, Lua, C#, Swift, Java, TouchDesigner, etc. I have valuable experience with AI/LLM tools — not just as coding agents, but also building infrastructure and tooling around them, including local inference.
 
 Former iOS and Flash developer. Extensive experience with Docker and building infrastructure on most common cloud providers and locally. Regularly work with Raspberry Pi, comfortable with Arduino, ESP32, and intermediate electronics. I'm competent with a soldering iron.
 
