@@ -90,6 +90,7 @@
 .markdown-body {
     /* font-family: Inter,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; */
     font-family: "IBM Plex Serif", serif;
+    font-size: inherit !important;
 }
 
 h3 + h4 {
