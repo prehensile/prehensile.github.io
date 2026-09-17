@@ -22,7 +22,7 @@ Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Ski
 
 ## Technical skills
 
-Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including C/C++, Lua, C#, Swift, Java, TouchDesigner, etc. My experience with AI and LLMs goes beyond coding agents to building software infrastructure and tooling around them, and experimentation with low-end inference hardware in the lab.
+Expert in Python and a productive full-stack JS engineer. I can usually pick up whatever stack is most useful for the job at hand, including TypeScript, C/C++, Lua, C#, Swift, Java, TouchDesigner, etc. My experience with AI goes beyond the use of coding agents to building software infrastructure and tooling around LLMs and experimentation with low-end inference hardware in the lab.
 
 Former iOS and Flash developer. Extensive experience with Docker and building infrastructure on most common cloud providers and locally. Regularly work with Raspberry Pi, comfortable with Arduino, ESP32, and intermediate electronics. I'm competent with a soldering iron.
 
