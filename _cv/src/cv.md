@@ -10,7 +10,7 @@
 
 In over two decades working in creative technology, I've developed a good nose for emerging technologies and their potential for professionals and the public.
 
-As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision. 
+As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision. I've published [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report) and [peer-reviewed research](https://www.semanticscholar.org/author/Henry-Cooke/46422799) on audio AR, UX design, and cultural impacts of voice interfaces.
 
 I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
