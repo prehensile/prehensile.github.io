@@ -15,6 +15,8 @@ if [ $md_timestamp -gt $pdf_timestamp ]; then
     npm run build
     git add $DESTINATION_DIR/cv.pdf $DESTINATION_DIR/cv.html
     git commit -m "github actions generated PDF and HTML on $(date +%Y-%m-%dT%H:%M:%S)"
+    # the timeline workflow may have pushed in the meantime
+    git pull --rebase origin master
     git push origin HEAD:master
 else
     echo "cv.pdf is up to date with cv.md, no action needed"
