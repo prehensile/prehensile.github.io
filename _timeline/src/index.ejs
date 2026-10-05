@@ -1,0 +1,147 @@
+<%
+/* this stuff is to colour-code broad top-level categories */
+const _categoryClasses = {
+  "introduction" : "category-intro",
+  "jobs" : "category-jobs",
+  "publications" : "category-publications",
+  "talks" : "category-talk"
+}
+classForCategory = function( cat ){
+  if( _categoryClasses.hasOwnProperty(cat) ){
+    return(_categoryClasses[ cat ]);
+  }
+}
+classForCategories = function(categories) {
+  //console.log( categories );
+  for(const cat of categories){
+    const klass = classForCategory( cat );
+    if( klass ) return klass;
+  }
+  return ""
+}
+/* and this is used to hoist hero categories to the top of the list */
+const _heroCategories = [
+  "creative-technologist",
+  "team-lead",
+  "producer",
+  "research"
+]
+%>
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <%- include('/head', {head: content.head}) %>
+  </head>
+  <body>
+    <section>
+        <header class="timeline-filter">
+          <div class="timeline-filter-inner">
+            <h1 id="header-home">Henry Cooke</h1>
+            <p>Creative technologist, team lead, researcher.</p>
+            <div class="category-wrapper">
+              <label for="category-selector">Filter:</label>
+              <select id="category-selector">
+                <option value="_all" selected>📖 Everything</option>
+                <option value="greatest-hits">⭐ Greatest Hits</option>
+                <option value="_random">🎲 Random</option>
+                <option value="divider" disabled>──────────</option>
+                <% for(const cat in _categoryClasses){ %>
+                  <option class="<%= _categoryClasses[cat] %>" value="<%= cat %>"><%= cat  %></option>
+                <% }; %>
+                <option value="divider" disabled>──────────</option>
+                <% for(const cat of _heroCategories){ %>
+                  <option value="<%= cat %>"><%= cat  %></option>
+                <% }; %>
+                <option value="divider" disabled>──────────</option>
+                <% content.filters.forEach(function(filter){
+                  if( !_heroCategories.includes(filter) ){ %>
+                    <option value="<%= filter %>"><%= filter %></option>
+                <% } }); %>
+              </select>
+          </div>
+        </header>
+      </div>
+      <article class="timeline">
+        <% content.entries.forEach(function(entry){ %>
+        <div
+          class="timeline-entry <%= classForCategories(entry.categories) %>"
+          data-category="<%= entry.categoriesString %>"
+          aria-hidden="false"
+        >
+          <!-- <div class="timeline-icon <%- entry.color || 'grey' %>" title="<%= entry.faicon %>"> -->
+          <div class="timeline-icon" title="<%= entry.faicon %>">
+            <% if (entry.faicon) { %>
+            <i class="fas fa-<%= entry.faicon %>" aria-hidden="true"></i>
+            <% } %>
+          </div>
+          <div class="timeline-description">
+            <span class="timestamp"
+              ><time datetime="<%- entry.datetime || entry.date %>"
+                ><%- utilities.humanizeDate(entry.datetime, entry.date) %></time
+              ></span
+            >
+            <h2>
+              <a id="<%= entry.id %>" href="#<%= entry.id %>"><i class="fas fa-link"></i></a><%-
+              entry.title %>
+            </h2>
+            <% if (entry.image) { %>
+              <img src="img/content/<%= entry.image.src %>" loading="lazy">
+            <% } %>
+            <!-- <% if (entry.image) { %>
+            <div class="captioned-image image-right">
+              <% if (entry.image.link) { %><a href="<%= entry.image.link %>"
+                ><% } %>
+                <img src="<%= entry.image.src %>" alt="<%= entry.image.src %>" />
+                <% if (entry.image.link) { %></a
+              ><% } %> <% if (entry.image.caption) { %>
+              <span class="caption"><%- entry.image.caption %></span>
+              <% } %>
+            </div>
+            <% } %> -->
+            <% if (!utilities.isWrappedInParagraphTags(entry.body)) { %>
+            <p>
+              <% } %> <%- entry.body %> <% if (!utilities.isWrappedInParagraphTags(entry.body)) { %>
+            </p>
+            <% } %> <% if (entry.links) { %>
+            <ul>
+              <% entry.links.forEach(function (link) { %>
+              <li>
+                <a class="entry-link" href="<%= link.href %>" target="_blank"><%- link.linkText %></a><%-
+                link.extraText %>
+              </li>
+              <% }) %>
+            </ul>
+            <% } %> <% if (entry.categories) { %>
+              <p>
+                <% entry.categories.forEach(function (category) { %>
+                <a href="#" class="category-link <%= classForCategory(category) %>" data-category="<%- category %>">#<%- category %></a>
+                <% }) %>
+              </p>
+              <% } %>
+          </div>
+        </div>
+        <% }); %>
+      </article>
+    </section>
+    <% if (content.footer) { %>
+    <footer class="page-footer">
+      <% if (!utilities.isWrappedInParagraphTags(content.footer)) { %>
+      <p>
+        <% } %> <%- content.footer %> <% if (!utilities.isWrappedInParagraphTags(content.footer)) {
+        %>
+      </p>
+      <% } %>
+      <p>
+        Based on Molly White's
+        <a href="https://github.com/molly/static-timeline-generator" target="_blank"
+          >static timeline generator</a
+        >.
+      </p>
+    </footer>
+    <% } %>
+
+    <script src="js/classlist-polyfill.js"></script>
+    <script src="js/site-js.js"></script>
+  </body>
+</html>
