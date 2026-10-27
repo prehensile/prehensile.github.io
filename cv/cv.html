@@ -1467,7 +1467,13 @@ h1, h2, h3, h4, h5, h6 {
 .markdown-body {
     /* font-family: Inter,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; */
     font-family: "IBM Plex Serif", serif;
-    font-size: inherit !important;
+}
+
+/* mdpdf's default 11px is tuned for the two-page PDF; only override it on screen */
+@media screen {
+    .markdown-body {
+        font-size: inherit !important;
+    }
 }
 
 h3 + h4 {
