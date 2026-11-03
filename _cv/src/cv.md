@@ -8,9 +8,11 @@
 
 In over twenty years working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by professionals and the public.
 
-As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning, and made art from edge-cases of speech recognition and computer vision. I've published [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report) and [peer-reviewed research](https://www.semanticscholar.org/author/Henry-Cooke/46422799) on spatial audio, UX design, and cultural impacts of emerging technologies.
+As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning, and made art from edge-cases of speech recognition and computer vision.
 
-I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
+I have led successful teams both technical and cross-disciplinary — the latter is where my heart is, and where I believe the best work is done. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
+
+Recognitions for my work include a [BAFTA nomination](https://www.telegraph.co.uk/technology/mobile-phones/8475033/Malcolm-Tucker-iPhone-app-nominated-for-Bafta.html), [Best In Show at SXSWi](https://preloaded.com/work/launchball/), and [inauguration into MOMA's permanent collection](https://www.moma.org/explore/inside_out/2014/06/11/biophilia-the-first-app-in-momas-collection/). I led the team that created [the BBC's first voice driven app](https://www.bbc.co.uk/rd/blog/2017-09-voice-ui-inspection-chamber-audio-drama), and I'm a [published researcher](https://www.semanticscholar.org/author/Henry-Cooke/46422799) on voice interfaces, spatial audio, and [technology foresight](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report).
 
 I've been an independent creative R&D consultant since 2024, helping clients understand novel and emerging technologies through research, strategy, and hands-on prototyping.
 
