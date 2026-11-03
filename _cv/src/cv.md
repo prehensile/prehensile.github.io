@@ -1,16 +1,14 @@
 # Henry Cooke   
 
-- 📧 me@prehensile.co.uk
-- 🌐 [prehensile.co.uk](https://prehensile.co.uk/) and [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
-- 👔 [linkedin.com/in/henrycooke](https://www.linkedin.com/in/henrycooke/)
+- me@prehensile.co.uk
+- [prehensile.co.uk](https://prehensile.co.uk/) and [prehensile.co.uk/timeline](https://prehensile.co.uk/timeline/)
+- [linkedin.com/in/henrycooke](https://www.linkedin.com/in/henrycooke/)
 
 ## Creative Technology, Research & Development
 
-#### Tinkerer, prototyper, committed generalist. Glue person, consensus-builder, facilitator. Occasional futurist. Data science lab assistant. AI whisperer.
+In over twenty years working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by professionals and the public.
 
-In over two decades working in creative technology, I've developed a good nose for emerging technologies and how they might be put to use by professionals and the public.
-
-As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning and made art from edge-cases of speech recognition and computer vision. I've published [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report) and [peer-reviewed research](https://www.semanticscholar.org/author/Henry-Cooke/46422799) on spatial audio, UX design, and cultural impacts of emerging technologies.
+As a technologist, I've built websites, games, 3D environments, mobile and desktop apps, interactive stories, art installations, and many prototypes in both software and hardware. I've experimented with digital storytelling, natural language processing, spatial audio, machine learning, and made art from edge-cases of speech recognition and computer vision. I've published [foresight reports](https://www.bbc.co.uk/rd/articles/2025-06-social-media-change-issues-problems-report) and [peer-reviewed research](https://www.semanticscholar.org/author/Henry-Cooke/46422799) on spatial audio, UX design, and cultural impacts of emerging technologies.
 
 I have led successful teams both technical and cross-disciplinary — the latter is where my heart is. I've done a lot of design, concepting, and pitching and I am trained in video & audio production.
 
@@ -18,7 +16,7 @@ I've been an independent creative R&D consultant since 2024, helping clients und
 
 ## Professional skills
 
-Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Skilled facilitator and workshop leader. Empathetic leader, communicator and consensus-builder. Adept at working with creative, operational, management, and engineering colleagues on their own terms, and fostering communication between disciplines. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Engaging public speaker and precise and thoughtful writer.
+Trained Agile Project Manager, Product Owner, and Mental Health First Aider. Skilled facilitator and workshop leader. Empathetic leader, communicator, and consensus-builder. Adept at working with creative, operational, management, and engineering colleagues on their own terms, and fostering communication between disciplines. [Glue person](https://www.linkedin.com/pulse/glue-people-one-most-desired-job-market-enza-artino/). Engaging public speaker and precise and thoughtful writer.
 
 ## Technical skills
 
